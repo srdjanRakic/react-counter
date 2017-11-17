@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+html {
+  background:#018DED url(http://unsplash.it/1500/1000?image=881&blur=50);
+  background-size:cover;
+  font-family:'helvetica neue';
+  text-align: center;
+  font-size: 10px;
+}
+
+h1 {
+  color: white;
+  font-weight: 100;
+  font-size: 40px;
+  margin: 40px 0px 20px;
+}
